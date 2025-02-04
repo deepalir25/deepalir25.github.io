@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
     {
     title: "Power BI Projects",
-    cardImage: "assets/images/project-page/Power BI.jpg",
+    cardImage: "assets/images/project-page/Power_BI.jpg",
     description: "This section contains all the Power BI projects.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Githublink: "https://github.com/deepalir25/Power-BI-Dashboards",
