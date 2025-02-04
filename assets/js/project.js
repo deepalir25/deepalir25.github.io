@@ -5,23 +5,23 @@ const projectcards = document.querySelector(".projectcards");
 
 // Array of object for projects
 const projects = [
-  {
-    title: "Tableau Projects",
-    cardImage: "assets/images/project-page/budget1.gif",
-    description: "This section contains all the Tableau projects.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Githublink: "https://github.com/deepalir25/Tableau-Project",
-  },
-  {
+    {
     title: "Power BI Projects",
-    cardImage: "assets/images/project-page/face-swap.gif",
+    cardImage: "assets/images/project-page/Power BI.jpg",
     description: "This section contains all the Power BI projects.",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Githublink: "https://github.com/deepalir25/Power-BI-Dashboards",
   },
   {
+    title: "Tableau Projects",
+    cardImage: "assets/images/project-page/Tableau-Logo.png",
+    description: "This section contains all the Tableau projects.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Githublink: "https://github.com/deepalir25/Tableau-Project",
+  },
+  {
     title: "Presentations and Projects",
-    cardImage: "assets/images/project-page/emotion.gif",
+    cardImage: "assets/images/project-page/presentations.jpg",
     description: "This section contains all the business presentations and master's projects.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Githublink: "https://github.com/deepalir25/Presentations-and-Reports",
