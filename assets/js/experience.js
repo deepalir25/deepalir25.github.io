@@ -1,8 +1,9 @@
 AOS.init();
 
-//  Work experience cards
+// Work experience cards
 
 const experiencecards = document.querySelector(".experience-cards");
+
 const exp = [
   {
     title: "Business Analyst",
@@ -31,9 +32,9 @@ const exp = [
 
 const showCards2 = () => {
   let output = "";
-  exp.forEach(
-    ({ title, cardImage, place, time, desp }) =>
-      (output += `        
+
+  exp.forEach(({ title, cardImage, place, time, desp }) => {
+    output += `
     <div class="col gaap" data-aos="fade-up" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="400"> 
       <div class="card card1">
         <img src="${cardImage}" class="featured-image"/>
@@ -53,10 +54,10 @@ const showCards2 = () => {
         </article>
       </div>
     </div>
-      `)
-  );
+    `;
+  });
+
   experiencecards.innerHTML = output;
 };
+
 document.addEventListener("DOMContentLoaded", showCards2);
-
-
