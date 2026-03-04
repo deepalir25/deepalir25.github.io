@@ -11,11 +11,15 @@ const exp = [
     time: "(Jan 2022 - Aug 2023)",
     desp: "<li>Conducted thorough data analysis on diverse datasets using SQL queries to extract actionable insights, supporting strategic decision-making, and enhancing quality assurance efforts by 30%. </li> <li>Designed and developed interactive Business Intelligence (BI) dashboards, employing modern themes and layouts that improved visual appeal and user experience for analytical reports using Power BI by 25%. </li> <li>Created detailed analytical reports for three HR datasets—Attrition, Headcount, and Joining—comprising 2,000,000 rows. Analyzed the data and utilized DAX queries to create custom columns for report generation, enhancing the user interface with clickable call-to-action buttons and analytical charts, resulting in a 20% increase in report usability.</li>",
   },
+];
+
+const experiencecards = document.querySelector(".experience-cards");
+const exp = [
   {
-    title: "Kalosys",
+    title: "Kalosys Business Analyst",
     cardImage: "assets/images/Download.jpeg",
     place: "Tech Mahindra",
-    time: "(Dec 2025 - Apr 2026)",
+    time: "(Jan 2022 - Aug 2023)",
     desp: "<li>Conducted thorough data analysis on diverse datasets using SQL queries to extract actionable insights, supporting strategic decision-making, and enhancing quality assurance efforts by 30%. </li> <li>Designed and developed interactive Business Intelligence (BI) dashboards, employing modern themes and layouts that improved visual appeal and user experience for analytical reports using Power BI by 25%. </li> <li>Created detailed analytical reports for three HR datasets—Attrition, Headcount, and Joining—comprising 2,000,000 rows. Analyzed the data and utilized DAX queries to create custom columns for report generation, enhancing the user interface with clickable call-to-action buttons and analytical charts, resulting in a 20% increase in report usability.</li>",
   },
 ];
