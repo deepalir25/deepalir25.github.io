@@ -19,7 +19,7 @@ const exp = [
 
   {
     title: "Analytics & Strategy Intern",
-    cardImage: "assets/images/gto.jpeg",
+    cardImage: "assets/images/GTO LOGO.jpg",
     place: "Greater Than One",
     time: "(May 2024 - Aug 2024)",
     desp: `
