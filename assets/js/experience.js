@@ -6,27 +6,35 @@ const experiencecards = document.querySelector(".experience-cards");
 
 const exp = [
   {
-    title: "Business Analyst",
-    cardImage: "assets/images/Download.jpeg",
-    place: "Tech Mahindra",
-    time: "(Jan 2022 - Aug 2023)",
-    desp: `
-      <li>Conducted thorough data analysis on diverse datasets using SQL queries to extract actionable insights, supporting strategic decision-making, and enhancing quality assurance efforts by 30%.</li>
-      <li>Designed and developed interactive Business Intelligence (BI) dashboards using Power BI, improving visual appeal and user experience by 25%.</li>
-      <li>Created analytical reports for HR datasets (Attrition, Headcount, Joining) containing 2,000,000 rows. Used DAX queries and interactive charts to improve usability by 20%.</li>
-    `,
+    title: "Analyst - Artificial Intelligence & Marketing Strategy",
+    cardImage: "assets/images/kalosys.jpeg",
+    place: "KALOSYS, LLC • Las Vegas, NV",
+    time: "(Dec 2025 - Apr 2026)",
+    desp: ``,
   },
 
   {
-    title: "Analytics & Strategy Intern",
-    cardImage: "assets/images/GTO LOGO.jpg",
-    place: "Greater Than One",
+    title: "Business Analyst (AI & IT Team)",
+    cardImage: "assets/images/raymondjames.jpg",
+    place: "RAYMOND JAMES FINANCIAL • St. Petersburg, FL",
+    time: "(Jun 2025 - Aug 2025)",
+    desp: ``,
+  },
+
+  {
+    title: "Marketing Strategist & Analyst",
+    cardImage: "assets/images/GTO.jpg",
+    place: "GREATER THAN ONE • Manhattan, NY",
     time: "(May 2024 - Aug 2024)",
-    desp: `
-      <li>Analyzed multi-channel marketing campaign data across multiple platforms to evaluate campaign performance and improve ROI.</li>
-      <li>Developed data-driven insights using Excel and BI tools to optimize marketing strategy and budget allocation.</li>
-      <li>Built performance reports tracking key KPIs and campaign metrics to support strategic decision-making.</li>
-    `,
+    desp: ``,
+  },
+
+  {
+    title: "Business Analyst",
+    cardImage: "assets/images/Download.jpeg",
+    place: "TECH MAHINDRA • Remote",
+    time: "(Jan 2022 - Jul 2023)",
+    desp: ``,
   },
 ];
 
