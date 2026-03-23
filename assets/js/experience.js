@@ -23,7 +23,7 @@ const exp = [
 
   {
     title: "Marketing Strategist & Analyst",
-    cardImage: "assets/images/GTO.jpg",
+    cardImage: "assets/images/GTO LOGO.jpg",
     place: "GREATER THAN ONE • Manhattan, NY",
     time: "(May 2024 - Aug 2024)",
     desp: ``,
